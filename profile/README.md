@@ -31,8 +31,8 @@
 <br /><br />
 
 ## 👩‍💻👨‍💻 Member
-
-| <img src="https://github.com/user-attachments/assets/85229bc8-24cd-4e84-9581-fe29dfe1ec9d" width="150px" height="150px" alt="지환_프로필"> | <img src="https://github.com/user-attachments/assets/224fec75-c101-4122-a46e-0df8a10f4b90" width="150px" height="150px" alt="원빈_프로필"> | <img src="https://github.com/user-attachments/assets/40473f1f-58b8-404d-baa5-1a5c7fcfa5cc" width="150px" height="150px" alt="주현_프로필"> | <img src="https://github.com/user-attachments/assets/9ac1ba91-3bd3-4d99-9852-56ac2f522572" width="150px" height="150px" style="object-fit: cover" alt="범조_프로필"> |
+| BackEnd | FrontEnd | FrontEnd | FrontEnd |
 |:------:|:------:|:------:|:------:|
+| <img src="https://github.com/user-attachments/assets/85229bc8-24cd-4e84-9581-fe29dfe1ec9d" width="150px" height="150px" alt="지환_프로필"> | <img src="https://github.com/user-attachments/assets/224fec75-c101-4122-a46e-0df8a10f4b90" width="150px" height="150px" alt="원빈_프로필"> | <img src="https://github.com/user-attachments/assets/40473f1f-58b8-404d-baa5-1a5c7fcfa5cc" width="150px" height="150px" alt="주현_프로필"> | <img src="https://github.com/user-attachments/assets/9ac1ba91-3bd3-4d99-9852-56ac2f522572" width="150px" height="150px" style="object-fit: cover" alt="범조_프로필"> |
 | 지환 | 원빈 | 주현 | 범조 |
 | <a href="https://github.com/jihwankim128">jihwankim128</a> | <a href="https://github.com/Seio924">Seio924</a>  | <a href="https://github.com/jhgwon">jhgwon</a> | <a href="https://github.com/kim13175">kim13175</a> |
