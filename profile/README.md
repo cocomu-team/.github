@@ -1,4 +1,6 @@
-<img src="https://github.com/user-attachments/assets/fc50544d-1c41-41e5-b7aa-9ff2106a2c94" alt="banner" width="960px" height="480px">
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/fc50544d-1c41-41e5-b7aa-9ff2106a2c94" alt="banner" width="960px" height="480px">
+</div>
 
 <br />
 
@@ -33,3 +35,4 @@
 * 기획 과정에서 Event Storming을 작성했어요. ➡️ [Event Storming을 작성한 이유 보기-(링크)](https://velog.io/@jihwankim128/COCOMU-%EC%BD%94%EC%BD%94%EB%AC%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8#event-storming)
 * 기획 과정에서 Lo-Fi Wire Frame을 작성했어요. ➡️ [Wire Frame을 작성한 이유 보기-(링크)](https://velog.io/@jihwankim128/COCOMU-%EC%BD%94%EC%BD%94%EB%AC%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8#lo-fi-wire-frame)
 * 기획 과정에서 API 명세서를 작성했어요. ➡️ [API 명세서를 작성한 이유 보기-(링크)](https://velog.io/@jihwankim128/COCOMU-%EC%BD%94%EC%BD%94%EB%AC%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8#api-specific)
+* 프론트엔드에서는 이러한 기술들을 활용했어요. ➡️ [프론트에서 이용한 기술 문서 정리-(링크)](https://github.com/cocomu-team/cocomu-fe?tab=readme-ov-file#cocomu-%ED%94%84%EB%A1%A0%ED%8A%B8-%ED%8C%80-%EA%B8%B0%EC%88%A0-%EB%AC%B8%EC%84%9C)  
