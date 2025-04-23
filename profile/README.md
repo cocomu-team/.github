@@ -23,25 +23,29 @@
 ## 👩‍💻👨‍💻 Member
 <table>
   <tr align="center">
-    <td width="25%"><b>BackEnd</b></td>
-    <td width="25%"><b>FrontEnd</b></td>
-    <td width="25%"><b>FrontEnd</b></td>
-    <td width="25%"><b>FrontEnd</b></td>
+    <td width="20%"><b>BackEnd</b></td>
+    <td width="20%"><b>BackEnd</b></td>
+    <td width="20%"><b>FrontEnd</b></td>
+    <td width="20%"><b>FrontEnd</b></td>
+    <td width="20%"><b>FrontEnd</b></td>
   </tr>
   <tr align="center">
     <td><img src="https://github.com/user-attachments/assets/85229bc8-24cd-4e84-9581-fe29dfe1ec9d" width="150px" height="150px" alt="지환_프로필"></td>
+    <td><img src="https://github.com/user-attachments/assets/afe24a4a-e58c-46ce-b3b8-bb279f1892ba" width="150px" height="150px" alt="재원_프로필"></td>
     <td><img src="https://github.com/user-attachments/assets/224fec75-c101-4122-a46e-0df8a10f4b90" width="150px" height="150px" alt="원빈_프로필"></td>
     <td><img src="https://github.com/user-attachments/assets/40473f1f-58b8-404d-baa5-1a5c7fcfa5cc" width="150px" height="150px" alt="주현_프로필"></td>
     <td><img src="https://github.com/user-attachments/assets/9ac1ba91-3bd3-4d99-9852-56ac2f522572" width="150px" height="150px" style="object-fit: cover" alt="범조_프로필"></td>
   </tr>
   <tr align="center">
     <td>지환</td>
+    <td>재원</td>
     <td>원빈</td>
     <td>주현</td>
     <td>범조</td>
   </tr>
   <tr align="center">
     <td><a href="https://github.com/jihwankim128">jihwankim128</a></td>
+    <td><a href="https://github.com/gitjaewon">gitjaewon</a></td>
     <td><a href="https://github.com/Seio924">Seio924</a></td>
     <td><a href="https://github.com/jhgwon">jhgwon</a></td>
     <td><a href="https://github.com/kim13175">kim13175</a></td>
@@ -51,6 +55,7 @@
       저는 코코무의 MVP 과정에서 DevOps 및 전반적인 백엔드 파트를 맡게되었습니다. <br/>
       제가 작업한 결과물은 백엔드 기술 문서에 상세히 작성되었습니다 :) 
     </td>
+    <td>작성해주세요.</td>
     <td>작성해주세요.</td>
     <td>작성해주세요.</td>
     <td>작성해주세요.</td>
